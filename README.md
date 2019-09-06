@@ -1,9 +1,8 @@
 # CIVL 418 - Engineering Hydrology
 > PySheds Tutorial
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dankovacek/pysheds_tutorial/master?filepath=Pysheds_Tutorial.ipynb)
+
 
 This tutorial is an introduction to the Python package 'pysheds', a powerful
 open-source library for delineating catchments, etc.
